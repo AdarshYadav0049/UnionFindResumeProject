@@ -3,7 +3,7 @@ number_of_vertices = 11
 edges =  [[0, 4], [0, 3], [9, 10], [1, 7], [1, 8], [2, 3], [2, 4], [2, 5],
                  [2, 8], [3, 4], [6, 1], [6, 2],
                  [6, 3], [7, 2], [7, 4]]
-layout = "kamada_kawai"    #Either one of "spring" (the default), "circular", "kamada_kawai", "planar", "random", "shell", "spectral", "spiral", "tree", and "partite".
+layout = "shell"    #Either one of "spring" (the default), "circular", "kamada_kawai", "planar", "random", "shell", "spectral", "spiral", "tree", and "partite".
                            #If the graphs appears to overlap use "shell" or "circular"
 
 [color]
