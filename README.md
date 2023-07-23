@@ -33,6 +33,8 @@ The Union Find algorithm, also known as the Disjoint-Set data structure, is a fu
 
 4. **Run the Visualization**: Execute `main.py` to start the visualization. The graphical animation will showcase the step-by-step execution of the Union Find algorithm using Manim's features.
 
+[![Run Main](https://img.shields.io/badge/Run-Main-blue?style=for-the-badge&logo=python)](python main.py)
+
 5. **Interaction**: Users can interact with the animation, pause, and rewind to better understand the Union Find algorithm's different stages.
 
 ## Benefits and Impact
