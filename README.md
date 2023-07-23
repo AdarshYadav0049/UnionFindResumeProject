@@ -1,10 +1,13 @@
 Title: Union Find Algorithm Visualization with Manim
 
-Introduction: The Union Find Algorithm Visualization with Manim is an educational project designed to provide an intuitive and interactive way to understand the Union Find data structure and its corresponding algorithm. By using Manim, a popular mathematical animation library, this project aims to make learning the Union Find algorithm enjoyable and accessible to individuals with varying levels of programming and computer science backgrounds.
+Introduction:
+The Union Find Algorithm Visualization with Manim is an educational project designed to provide an intuitive and interactive way to understand the Union Find data structure and its corresponding algorithm. By using Manim, a popular mathematical animation library, this project aims to make learning the Union Find algorithm enjoyable and accessible to individuals with varying levels of programming and computer science backgrounds.
 
-Overview: The Union Find algorithm, also known as the Disjoint-Set data structure, is a fundamental concept in computer science used to efficiently manage and manipulate disjoint sets. It serves as a crucial building block for various algorithms and data structures, including minimum spanning trees, Kruskal's algorithm, and more.
+Overview:
+The Union Find algorithm, also known as the Disjoint-Set data structure, is a fundamental concept in computer science used to efficiently manage and manipulate disjoint sets. It serves as a crucial building block for various algorithms and data structures, including minimum spanning trees, Kruskal's algorithm, and more.
 
-Key Features: Interactive Visualization: The project provides an interactive visualization of the Union Find data structure, allowing users to observe how sets are connected, merged, and split through animated graphics.
+Key Features:
+Interactive Visualization: The project provides an interactive visualization of the Union Find data structure, allowing users to observe how sets are connected, merged, and split through animated graphics.
 
 Easy Setup: To get started, users can simply install the required dependencies by running "pip install -r requirements.txt." The project's user-friendly configuration file, "config.toml," allows customization of various graph parameters.
 
@@ -12,7 +15,8 @@ Manim Library Integration: The Union Find Algorithm Visualization leverages the 
 
 Educational Value: The primary goal of the project is to provide a comprehensive learning experience. It caters to students, educators, and anyone interested in understanding the Union Find algorithm with the help of visual aids.
 
-How to Use: Installation: Clone the project from the GitHub repository and navigate to the project directory in the terminal. Run "pip install -r requirements.txt" to install the necessary dependencies.
+How to Use:
+Installation: Clone the project from the GitHub repository and navigate to the project directory in the terminal. Run "pip install -r requirements.txt" to install the necessary dependencies.
 
 Configuration: The "config.toml" file allows users to adjust various parameters related to the graph visualization. This includes the number of nodes, colors, animation speed, and more.
 
@@ -20,7 +24,8 @@ Run the Visualization: Execute "main.py" to start the visualization. The graphic
 
 Interaction: Users can interact with the animation, pause, and rewind to better understand the Union Find algorithm's different stages.
 
-Benefits and Impact: Improved Learning: By presenting the algorithm visually, the project helps learners grasp the concepts of Union Find more effectively. Visual aids often lead to enhanced comprehension and retention.
+Benefits and Impact:
+Improved Learning: By presenting the algorithm visually, the project helps learners grasp the concepts of Union Find more effectively. Visual aids often lead to enhanced comprehension and retention.
 
 Accessible to Diverse Audiences: The project caters to individuals with varying levels of expertise, from beginners to experienced programmers, making it an inclusive learning tool.
 
@@ -28,4 +33,5 @@ Engagement: Animations and interactivity make the learning process enjoyable and
 
 Open Source Contribution: Being an open-source project on GitHub, the Union Find Algorithm Visualization welcomes contributions from the community. This promotes collaboration and fosters improvement over time.
 
-Conclusion: The Union Find Algorithm Visualization with Manim is a commendable educational project that simplifies the understanding of the Union Find algorithm through captivating visualizations. Its seamless integration with the Manim library and user-friendly setup enable students, educators, and programming enthusiasts to explore the intricacies of Union Find in an interactive manner. As an open-source initiative, the project continues to evolve with contributions from the community, ensuring its relevance and impact in the educational space.
+Conclusion:
+The Union Find Algorithm Visualization with Manim is a commendable educational project that simplifies the understanding of the Union Find algorithm through captivating visualizations. Its seamless integration with the Manim library and user-friendly setup enable students, educators, and programming enthusiasts to explore the intricacies of Union Find in an interactive manner. As an open-source initiative, the project continues to evolve with contributions from the community, ensuring its relevance and impact in the educational space.
