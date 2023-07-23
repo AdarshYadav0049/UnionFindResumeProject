@@ -1,48 +1,47 @@
-Title: Union Find Algorithm Visualization with Manim
+# Union Find Algorithm Visualization with Manim
 
-## Introduction: 
+
+
+## Introduction
+
 The Union Find Algorithm Visualization with Manim is an educational project designed to provide an intuitive and interactive way to understand the Union Find data structure and its corresponding algorithm. By using Manim, a popular mathematical animation library, this project aims to make learning the Union Find algorithm enjoyable and accessible to individuals with varying levels of programming and computer science backgrounds.
 
-## Overview:
+## Overview
+
 The Union Find algorithm, also known as the Disjoint-Set data structure, is a fundamental concept in computer science used to efficiently manage and manipulate disjoint sets. It serves as a crucial building block for various algorithms and data structures, including minimum spanning trees, Kruskal's algorithm, and more.
 
-## Key Features:
-Interactive Visualization: The project provides an interactive visualization of the Union Find data structure, allowing users to observe how sets are connected, merged, and split through animated graphics.
+## Key Features
 
-## Easy Setup:
-To get started, users can simply install the required dependencies by running "pip install -r requirements.txt." The project's user-friendly configuration file, "config.toml," allows customization of various graph parameters.
+- **Interactive Visualization**: The project provides an interactive visualization of the Union Find data structure, allowing users to observe how sets are connected, merged, and split through animated graphics.
 
-## Manim Library Integration:
-The Union Find Algorithm Visualization leverages the powerful Manim library, which excels at creating mathematical animations. This ensures smooth and visually appealing representations of the algorithm in action.
+- **Easy Setup**: To get started, users can simply install the required dependencies by running `pip install -r requirements/requirements.txt`. The project's user-friendly configuration file, `config.toml`, allows customization of various graph parameters.
 
-## Educational Value:
-The primary goal of the project is to provide a comprehensive learning experience. It caters to students, educators, and anyone interested in understanding the Union Find algorithm with the help of visual aids.
+- **Manim Library Integration**: The Union Find Algorithm Visualization leverages the powerful Manim library, which excels at creating mathematical animations. This ensures smooth and visually appealing representations of the algorithm in action.
 
+- **Educational Value**: The primary goal of the project is to provide a comprehensive learning experience. It caters to students, educators, and anyone interested in understanding the Union Find algorithm with the help of visual aids.
 
-## Installation:
-Clone the project from the GitHub repository and navigate to the project directory in the terminal. Run "pip install -r requirements.txt" to install the necessary dependencies.
+## How to Use
 
-## Configuration:
-The "config.toml" file allows users to adjust various parameters related to the graph visualization. This includes the number of nodes, colors, animation speed, and more.
+1. **Installation**: Clone the project from the GitHub repository and navigate to the project directory in the terminal. Run `pip install -r requirements.txt` to install the necessary dependencies.
 
-## Run the Visualization:
-Execute "main.py" to start the visualization. The graphical animation will showcase the step-by-step execution of the Union Find algorithm using Manim's features.
+2. **Python Packages Requirements**:
+- **manim**==0.17.3
+- **numpy**==1.25.1
+- **opencv_python**==4.8.0.74
 
-## Interaction:
-Users can interact with the animation, pause, and rewind to better understand the Union Find algorithm's different stages.
+3. **Configuration**: The `config.toml` file allows users to adjust various parameters related to the graph visualization. This includes the number of nodes, colors, animation speed, and more.
 
-## Benefits and Impact:
+4. **Run the Visualization**: Execute `main.py` to start the visualization. The graphical animation will showcase the step-by-step execution of the Union Find algorithm using Manim's features.
 
-Improved Learning: By presenting the algorithm visually, the project helps learners grasp the concepts of Union Find more effectively. Visual aids often lead to enhanced comprehension and retention.
+5. **Interaction**: Users can interact with the animation, pause, and rewind to better understand the Union Find algorithm's different stages.
 
-## Accessible to Diverse Audiences:
-The project caters to individuals with varying levels of expertise, from beginners to experienced programmers, making it an inclusive learning tool.
+## Benefits and Impact
 
-## Engagement:
-Animations and interactivity make the learning process enjoyable and engaging, encouraging users to explore the algorithm's intricacies.
+- **Improved Learning**: By presenting the algorithm visually, the project helps learners grasp the concepts of Union Find more effectively. Visual aids often lead to enhanced comprehension and retention.
 
-Open Source Contribution: Being an open-source project on GitHub, the Union Find Algorithm Visualization welcomes contributions from the community. This promotes collaboration and fosters improvement over time.
+- **Accessible to Diverse Audiences**: The project caters to individuals with varying levels of expertise, from beginners to experienced programmers, making it an inclusive learning tool.
 
-## Conclusion:
+- **Engagement**: Animations and interactivity make the learning process enjoyable and engaging, encouraging users to explore the algorithm's intricacies.
 
-The Union Find Algorithm Visualization with Manim is a commendable educational project that simplifies the understanding of the Union Find algorithm through captivating visualizations. Its seamless integration with the Manim library and user-friendly setup enable students, educators, and programming enthusiasts to explore the intricacies of Union Find in an interactive manner. As an open-source initiative, the project continues to evolve with contributions from the community, ensuring its relevance and impact in the educational space.
+---
+Developed by [Adarsh Yadav](https://www.linkedin.com/in/adarsh-yadav-b35a06263/) - [GITHUB](https://github.com/AdarshYadav0049)
