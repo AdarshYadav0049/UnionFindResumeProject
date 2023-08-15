@@ -4,11 +4,7 @@
 
 Here's a video demonstrating the project:
 
-[//]: # (<!-- Replace 'EMBED_CODE' with the actual embed code you obtained from the video hosting platform -->)
-
-[//]: # (<iframe width="560" height="315" src="EMBED_CODE" frameborder="0" allowfullscreen></iframe>)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IogGM7D5zJw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IogGM7D5zJw" frameborder="0" allowfullscreen></iframe>
 ## Introduction
 
 The Union Find Algorithm Visualization with Manim is an educational project designed to provide an intuitive and interactive way to understand the Union Find data structure and its corresponding algorithm. By using Manim, a popular mathematical animation library, this project aims to make learning the Union Find algorithm enjoyable and accessible to individuals with varying levels of programming and computer science backgrounds.
