@@ -3,9 +3,9 @@
 ## Example Video
 
 Here's a video demonstrating the project:
+https://github.com/AdarshYadav0049/UnionFindResumeProject/assets/137186212/e26d929d-ad82-4de2-9254-c905bcd3a9f7
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IogGM7D5zJw" frameborder="0" allowfullscreen></iframe>
-## Introduction
+
 
 The Union Find Algorithm Visualization with Manim is an educational project designed to provide an intuitive and interactive way to understand the Union Find data structure and its corresponding algorithm. By using Manim, a popular mathematical animation library, this project aims to make learning the Union Find algorithm enjoyable and accessible to individuals with varying levels of programming and computer science backgrounds.
 
