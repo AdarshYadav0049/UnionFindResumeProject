@@ -1,11 +1,6 @@
-from manim import *
-import colorsys
+
 import tomllib
-from manim.utils.file_ops import open_file as open_media_file
-from pprint import pprint
 from Scene import MovingVertices
-import cv2
-import numpy as np
 from play_vid import play_video
 
 with open('config.toml', 'rb') as f:

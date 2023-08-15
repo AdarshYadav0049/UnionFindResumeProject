@@ -1,6 +1,13 @@
 # Union Find Algorithm Visualization with Manim
 
+## Example Video
 
+Here's a video demonstrating the project:
+
+[//]: # (<!-- Replace 'EMBED_CODE' with the actual embed code you obtained from the video hosting platform -->)
+
+[//]: # (<iframe width="560" height="315" src="EMBED_CODE" frameborder="0" allowfullscreen></iframe>)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IogGM7D5zJw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Introduction
 
